@@ -7,7 +7,7 @@ class App extends React.Component {
         return (
             <div>
                 啊哈哈哈张艺兴
-                <h2>dddfff</h2>
+                <h2>xixi</h2>
             </div>
         );
     }
